@@ -14,6 +14,8 @@ Only comment on errors that would stop the tests running.
 
 ```python
 
+# Beginning
+
 class CardGame:
 
   def check_for_ace(self, card):
