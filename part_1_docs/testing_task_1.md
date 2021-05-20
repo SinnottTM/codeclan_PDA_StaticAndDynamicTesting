@@ -14,7 +14,7 @@ Only comment on errors that would stop the tests running.
 
 ```python
 
-# Beginning
+# Beginning from here
 
 class CardGame:
 
